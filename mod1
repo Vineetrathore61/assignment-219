@@ -1,0 +1,13 @@
+Create a GitHub Repository: Go to GitHub and create a new repository by clicking on the "+" sign in the top right corner and selecting "New repository". Name your repository appropriately, for example, "module2-solution".
+Push Your Solution Code: After creating the repository, clone it to your local machine using Git. Then, add your solution code (HTML, CSS, JavaScript files) to this repository.
+bash
+Copy code
+git clone https://github.com/yourusername/module2-solution.git
+cd module2-solution
+Enable GitHub Pages: Once your solution code is in the repository, go to the "Settings" tab of your repository on GitHub. Scroll down to the "GitHub Pages" section.
+In the "Source" dropdown menu, select "main" or "master" branch, depending on which branch contains your solution code.
+Choose the root folder as the source. This will ensure that GitHub Pages serves your solution files from the root directory.
+Click "Save" or "Save Changes" to enable GitHub Pages for your repository.
+Access Your GitHub Pages URL: After enabling GitHub Pages, GitHub will provide you with a URL where your solution is hosted. It will be something like: http://yourusername.github.io/module2-solution.
+Test the URL: Before submitting your assignment, make sure to test the URL provided by GitHub to ensure your solution webpage displays correctly.
+That's it! You now have a GitHub Pages URL pointing to your solution for the assignment. You can use this URL for your assignment submission.
