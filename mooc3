@@ -1,0 +1,18 @@
+GitHub Repository Setup:
+Make sure your assignment solution is organized within a GitHub repository. If it's not already, create a new repository for your assignment on GitHub.
+GitHub Pages Configuration:
+Go to your repository's settings on GitHub.
+Scroll down to the "GitHub Pages" section.
+Under "Source", select the branch and folder (if applicable) containing your assignment solution.
+Save your changes.
+Wait for Deployment:
+GitHub will build and deploy your site. This process may take a few moments. You'll see a message indicating when your site is ready.
+Access Your Site:
+Once deployed, your site will be accessible at a URL based on your GitHub username and repository name. It will typically be in the format http://yourGitHubUsername.github.io/yourRepositoryName.
+If you've chosen a specific folder within your repository, the URL might include that folder's name as well.
+Verification:
+Open a web browser and navigate to the URL of your GitHub Pages site to ensure it's displaying your assignment solution correctly.
+Testing:
+Verify that any interactive elements (if present) are functioning correctly on your GitHub Pages site.
+Submission:
+Once you've confirmed that your solution is visible at the provided URL and is functioning correctly, you can submit the URL as your assignment solution.
